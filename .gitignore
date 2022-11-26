@@ -9,5 +9,8 @@ Render/cnc_milling_carriage_v1.IGS
 Render/*.*
 Drawings/~$*.SLDDRW
 CNC Milling Carriage.drawio
-Drawings/CNC_MILLING_CARRIAGE_BOM.xls
+Drawings/CARRIAGE_BOM.xls
 *.bak
+3D/PerformanceLog.txt
+3D/*.MFC
+3D/*.LOG
